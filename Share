@@ -1,0 +1,1 @@
+After successfully building my image, I created a Docker account and a new repository to house my image. Upon completing the tutorial my image is now accessible here: https://hub.docker.com/repository/docker/jamiec83/bulletinboard
